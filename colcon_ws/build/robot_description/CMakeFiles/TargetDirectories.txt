@@ -1,9 +1,0 @@
-/colcon_ws/build/robot_description/CMakeFiles/install/strip.dir
-/colcon_ws/build/robot_description/CMakeFiles/install/local.dir
-/colcon_ws/build/robot_description/CMakeFiles/install.dir
-/colcon_ws/build/robot_description/CMakeFiles/list_install_components.dir
-/colcon_ws/build/robot_description/CMakeFiles/rebuild_cache.dir
-/colcon_ws/build/robot_description/CMakeFiles/edit_cache.dir
-/colcon_ws/build/robot_description/CMakeFiles/test.dir
-/colcon_ws/build/robot_description/CMakeFiles/robot_description_uninstall.dir
-/colcon_ws/build/robot_description/CMakeFiles/uninstall.dir
