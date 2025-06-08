@@ -1,0 +1,15 @@
+/colcon_ws/install/robot_controller/share/ament_index/resource_index/package_run_dependencies/robot_controller
+/colcon_ws/install/robot_controller/share/ament_index/resource_index/parent_prefix_path/robot_controller
+/colcon_ws/install/robot_controller/share/robot_controller/environment/ament_prefix_path.sh
+/colcon_ws/install/robot_controller/share/robot_controller/environment/ament_prefix_path.dsv
+/colcon_ws/install/robot_controller/share/robot_controller/environment/path.sh
+/colcon_ws/install/robot_controller/share/robot_controller/environment/path.dsv
+/colcon_ws/install/robot_controller/share/robot_controller/local_setup.bash
+/colcon_ws/install/robot_controller/share/robot_controller/local_setup.sh
+/colcon_ws/install/robot_controller/share/robot_controller/local_setup.zsh
+/colcon_ws/install/robot_controller/share/robot_controller/local_setup.dsv
+/colcon_ws/install/robot_controller/share/robot_controller/package.dsv
+/colcon_ws/install/robot_controller/share/ament_index/resource_index/packages/robot_controller
+/colcon_ws/install/robot_controller/share/robot_controller/cmake/robot_controllerConfig.cmake
+/colcon_ws/install/robot_controller/share/robot_controller/cmake/robot_controllerConfig-version.cmake
+/colcon_ws/install/robot_controller/share/robot_controller/package.xml

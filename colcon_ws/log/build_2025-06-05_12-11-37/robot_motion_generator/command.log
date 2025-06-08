@@ -1,0 +1,6 @@
+Invoking command in '/colcon_ws/build/robot_motion_generator': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /colcon_ws/src/robot_motion_generator -DCMAKE_INSTALL_PREFIX=/colcon_ws/install/robot_motion_generator
+Invoked command in '/colcon_ws/build/robot_motion_generator' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /colcon_ws/src/robot_motion_generator -DCMAKE_INSTALL_PREFIX=/colcon_ws/install/robot_motion_generator
+Invoking command in '/colcon_ws/build/robot_motion_generator': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /colcon_ws/build/robot_motion_generator -- -j24 -l24
+Invoked command in '/colcon_ws/build/robot_motion_generator' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /colcon_ws/build/robot_motion_generator -- -j24 -l24
+Invoking command in '/colcon_ws/build/robot_motion_generator': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /colcon_ws/build/robot_motion_generator
+Invoked command in '/colcon_ws/build/robot_motion_generator' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /colcon_ws/build/robot_motion_generator

@@ -1,0 +1,13 @@
+meterial Gazebo/SilverFoil
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture ../textures/silver_foil.jpg
+      }
+    }
+  }
+}
